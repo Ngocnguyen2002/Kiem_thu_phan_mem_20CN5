@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>415c86c5-dcaf-4d4c-b2c0-7568d20701cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b49dcec1-8b74-4a4a-9c47-179b53b403ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34736817-8824-4d0c-8d88-231dbdeb3d2e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b49dcec1-8b74-4a4a-9c47-179b53b403ee</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34736817-8824-4d0c-8d88-231dbdeb3d2e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

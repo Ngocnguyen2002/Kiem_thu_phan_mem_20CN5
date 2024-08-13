@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tm hiu v quyn ring t_x78zum5 xdt5ytf x1_60d8a9</name>
+   <tag></tag>
+   <elementGuidId>8932cb98-157c-475e-b811-1e0e63e5df3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_EP']/div/div/div/div[3]/div/div/div/div/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>345267ee-d8ec-4d29-a3aa-3dc94f6450ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x78zum5 xdt5ytf x1iyjqo2 x1n2onr6</value>
+      <webElementGuid>8800ed63-5ec4-4d5c-902a-80145c82e6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_EP&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1t2pt76 x1n2onr6 x1ja2u2z x10cihs4&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x1qjc9v5 xozqiw3 x1q0g3np x1t2pt76 x17upfok&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x1r8uery x1iyjqo2 xs83m0k xeuugli x1qughib x1cy8zhl xozqiw3 x1q0g3np xylbxtu x1t2pt76 xornbnt&quot;]/div[@class=&quot;x9f619 x1ja2u2z xnp8db0 x112wk31 xnjgh8c xxc7z9f x1t2pt76 x1u2d2a2 x6ikm8r x10wlt62 x7wzq59 xxzkxad x1daaz14&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf xedcshv x1t2pt76&quot;]/div[@class=&quot;xb57i2i x1q594ok x5lxg6s x78zum5 xdt5ytf x6ikm8r x1ja2u2z x1pq812k x1rohswg xfk6m8 x1yqm8si xjx87ck x1l7klhg x1iyjqo2 xs83m0k x2lwn1j xx8ngbg xwo3gff x1oyok0e x1odjw0f x1e4zzel x1n2onr6 xq1qtft&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 x1n2onr6&quot;]</value>
+      <webElementGuid>8d43ed52-e562-41da-a831-efc7b9f43f12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_EP']/div/div/div/div[3]/div/div/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>a8b27e71-7e63-4ec2-83e8-99666edc8af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>47937888-81be-4240-bc2c-c055554e5ef0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

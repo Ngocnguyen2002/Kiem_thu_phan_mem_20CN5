@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>08e73bde-e00e-49aa-b703-c6bce97f0bd9</testSuiteGuid>
+   <testCaseLink>
+      <guid>cc19bd48-9197-4b0d-b702-049ac203b58c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login_Facebook</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cb1d82b9-46c7-4f77-92da-81cd1cef453f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>cb1d82b9-46c7-4f77-92da-81cd1cef453f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>b49dcec1-8b74-4a4a-9c47-179b53b403ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cb1d82b9-46c7-4f77-92da-81cd1cef453f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>34736817-8824-4d0c-8d88-231dbdeb3d2e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

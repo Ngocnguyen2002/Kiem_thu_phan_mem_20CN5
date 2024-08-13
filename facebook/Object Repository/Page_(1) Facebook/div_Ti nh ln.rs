@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ti nh ln</name>
+   <tag></tag>
+   <elementGuidId>4780cd4a-c41e-43fa-916f-074fd8d8b6d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1ja2u2z.x78zum5.x2lah0s.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.xi112ho.x17zwfj4.x585lrc.x1403ito.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.xn6708d.x1ye3gou.x1hr4nm9.x1r1pt67</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_EP']/div/div/div/div[4]/div/div/div/div/div[2]/div/div/div/div[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5a4d156-3fd7-429c-8bd0-49f39a11989b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>9593da22-b3ef-451c-8e75-f0a2e0b5a111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xn6708d x1ye3gou x1hr4nm9 x1r1pt67</value>
+      <webElementGuid>d520a2b4-1dc3-46a0-8a4d-9d6c9a647c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tải ảnh lên</value>
+      <webElementGuid>a254d323-85d1-4c32-8820-c53d48a2fd54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_EP&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[4]/div[1]/div[@class=&quot;__fb-light-mode x1n2onr6 xzkaem6&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf xg6iff7 x1n2onr6 xwnxf6m&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[@class=&quot;__fb-light-mode x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k x1c4vz4f xg6iff7&quot;]/div[@class=&quot;x1cy8zhl x9f619 x78zum5 xl56j7k x2lwn1j xeuugli x47corl xurb0ha x1sxyh0 x1x97wu9 xbr3nou x3v4vwv x1dzdb2q&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x1afcbsf x78zum5 xdt5ytf x1a2a7pz x6ikm8r x10wlt62 x71s49j x1jx94hy x1qpq9i9 xdney7k xu5ydu1 xt3gfkd x104qc98 x1g2kw80 x16n5opg xl7ujzl xhkep3z xrgej4m xh8yej3&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s x1qughib x1qjc9v5 xozqiw3 x1q0g3np x1pi30zi x1swvt13 x1l90r2v xyamay9 xcud41i x139jcc6 x4vbgl9 x1rdy4ex&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x193iq5w xeuugli x1r8uery x1iyjqo2 xs83m0k x150jy0e x1e558r4 xjkvuk6 x1iorvi4&quot;]/div[@class=&quot;x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x1ypdohk xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xn6708d x1ye3gou x1hr4nm9 x1r1pt67&quot;]</value>
+      <webElementGuid>6cd1e549-4bed-423e-9adb-fd594d050e25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_EP']/div/div/div/div[4]/div/div/div/div/div[2]/div/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>58a10ecf-015b-4ea4-ad00-ab9495f99a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn ảnh đại diện'])[1]/following::div[8]</value>
+      <webElementGuid>5fd095c8-3f0e-4e2f-bee9-0aa7c4ab7a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm hiểu về quyền riêng tư'])[1]/following::div[32]</value>
+      <webElementGuid>22747394-8f75-4bf4-bbc2-988a07089c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm khung'])[1]/preceding::div[6]</value>
+      <webElementGuid>12ebb70d-19ec-4168-b297-6ff5d2392f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>d212c4ac-cad3-4bcc-ba3a-79970fdaa83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tải ảnh lên' or . = 'Tải ảnh lên')]</value>
+      <webElementGuid>d0cfc83f-19c3-4beb-a57d-3c6a79639b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
